@@ -46,7 +46,7 @@ npm install -g json-server
 3. Inicia el servidor JSON.
 
 ```bash
-npx json-server --watch db.json --port 3001
+npx json-server --watch db.json --port 3000
 ```
 
 4. Abre el archivo `index.html` en tu navegador web favorito.
